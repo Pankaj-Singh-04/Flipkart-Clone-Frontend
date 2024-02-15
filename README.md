@@ -1,4 +1,5 @@
 Link to frontend : https://65cd25927769f220580d1450--spiffy-sfogliatella-e438c1.netlify.app/cart
+Working link to frontend : https://65ce02e851a70a047cdff686--wondrous-profiterole-6cc8ba.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
